@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:Cornsilk;">
+<body style="background-color:LightSalmon;">
   
 <form action="action_page.php">
   <div class="container">
