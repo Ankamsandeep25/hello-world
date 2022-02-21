@@ -1,4 +1,6 @@
-
+<html>
+<body style="background-color:powderblue;">
+  
 <form action="action_page.php">
   <div class="container">
     <h1>Register Form</h1>
@@ -26,3 +28,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
+</body>
+</html>
