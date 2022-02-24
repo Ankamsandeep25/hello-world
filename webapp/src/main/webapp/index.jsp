@@ -3,7 +3,7 @@
   
 <form action="action_page.php">
   <div class="container">
-    <h1>Survey Form</h1>
+    <h1>Ankam Registration Form</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
